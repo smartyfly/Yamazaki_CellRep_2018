@@ -1,6 +1,6 @@
 # Matlab m script list (in the order of processing):
 ### CompareRedCh_GreenCh_gradientPlo.m
-extracts average $$\delta$$F/F0 for each red fraction and saves the value as xls and figures as pdf.
+extracts average dF/F0 for each red fraction and saves the value as xls and figures as pdf.
 
 ### Yamazaki_figure.m
 generates Figure4.pdf from the matlab file "SummaryData_man.mat".
