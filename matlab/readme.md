@@ -1,4 +1,4 @@
-# Matlab m script list (in the order of processing):
+# Matlab m script list:
 ### CompareRedCh_GreenCh_gradientPlo.m
 extracts average dF/F0 for each red fraction and saves the value as xls and figures as pdf.
 
